@@ -1,0 +1,16 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1790575767
+icon.svg::CompressedTexture2D::4083406774667597828::1790544375::1790544385::1::::<><><>0<>0<>1e563529be7bc17afbf84468dffe6b66<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://images/::1790575134
+::res://images/player/::1790572419
+player.png::CompressedTexture2D::1190258375519753519::1790572407::1790572419::1::::<><><>0<>0<>0b68d5bf53303a443991bcd1633209e9<>res://.godot/imported/player.png-6dfbc23c38f9ad04e77b2e4f66854254.ctex::
+::res://images/tileset/::1790575634
+forest.png::CompressedTexture2D::5840446215124272339::1790575628::1790575634::1::::<><><>0<>0<>54f8e1db71650f041e5e9ba20a7a8e3e<>res://.godot/imported/forest.png-75c25c8cf8220d1c6a6079d44defb3e2.ctex::
+::res://scenes/::1790575767
+main.tscn::PackedScene::2763339822442766134::1790573037::0::1::::<><><>0<>0<><>::uid://3ud3uvrhgtp0::::res://scenes/player.tscn
+player.tscn::PackedScene::2006808413843649251::1790574550::0::1::::<><><>0<>0<><>::uid://q7tm8cjrctit::::res://images/player/player.png<>uid://cxnuv6unpo2xf::::res://scripts/player.gd
+::res://scenes/levels/::1790575759
+baselevel.tscn::PackedScene::3255173883577376283::1790575737::0::1::::<><><>0<>0<><>::uid://cphfkcauxdtlj::::res://images/tileset/forest.png
+::res://scripts/::1790574550
+player.gd::GDScript::6415275183122286719::1790574550::0::1::::<>CharacterBody2D<><>0<>0<><>::
+::res://test/::1790571897
