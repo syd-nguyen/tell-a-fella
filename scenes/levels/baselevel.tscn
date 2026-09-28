@@ -1,0 +1,14 @@
+[gd_scene format=3 uid="uid://bcl8iqwh8il0i"]
+
+[ext_resource type="Texture2D" path="res://images/tileset/forest.png" id="1_2ojqb"]
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_oveqs"]
+texture = ExtResource("1_2ojqb")
+
+[sub_resource type="TileSet" id="TileSet_sxepx"]
+sources/0 = SubResource("TileSetAtlasSource_oveqs")
+
+[node name="levelRoot" type="Node2D" unique_id=2044716864]
+
+[node name="TileMapLayer" type="TileMapLayer" parent="." unique_id=1110710140]
+tile_set = SubResource("TileSet_sxepx")
